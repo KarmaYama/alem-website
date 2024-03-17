@@ -52,6 +52,12 @@
     color: #fff;
 }
 
+.bg-light,
+.btn-light {
+    background-color: var(--light-color);
+    color: #333;
+}
+
 .bg-primary a,
 .btn-primary a, 
 .bg-secondary a,
@@ -60,12 +66,6 @@
 .btn-dark a {
     color: #fff;
 } 
-
-.bg-light,
-.btn-light {
-    background-color: var(--light-color);
-    color: #333;
-}
 
 /* Text sizes */
 .lead {
